@@ -11,6 +11,7 @@ public class Main {
     public static void main(String[] args) {
         operativa_cuenta(null);
     }
+    
 
     private static void operativa_cuenta(java.lang.Float cantidad) {
         CCuenta cuenta1;
